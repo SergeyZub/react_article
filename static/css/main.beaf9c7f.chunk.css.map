@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,MACE,iBAAkB,CAClB,wBAAoC","file":"main.beaf9c7f.chunk.css","sourcesContent":[".Card {\n  padding: 10px 20px;\n  background-color: rgb(218, 213, 213);\n}\n"]}
